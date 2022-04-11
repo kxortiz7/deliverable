@@ -41,7 +41,7 @@ const QuoteBox = () => {
              </div>
 
             
-              <a className="img-arrow" href="" onClick= {changeQuoteAuthor} >
+              <a className="img-arrow"  onClick= {changeQuoteAuthor}>
              <img  src={arrow} alt="" className='arrow-svg' />
              </a>    
              
